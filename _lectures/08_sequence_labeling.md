@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 8
-date: 2024-04-29T10:00:00
+date: 2025-04-28T10:00:00
 title: Sequence Labeling
 tldr: "Sequence Labeling."
 hide_from_announcments: true
