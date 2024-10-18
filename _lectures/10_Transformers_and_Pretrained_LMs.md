@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 10
-date: 2024-05-13T10:00:00
+date: 2025-05-12T10:00:00
 title: Transformers and Pretrained LMs
 tldr: "Transformers and Pretrained LMs."
 hide_from_announcments: true
