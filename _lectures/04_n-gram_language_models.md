@@ -21,7 +21,7 @@ links:
     - [Smoothing: Add-one (Laplace) smoothing (8:10)](https://youtu.be/yZ9MCbMe2Ws)
     - [Interpolation, Backoff, and Web-Scale LMs (10:10)](https://youtu.be/FZFE4d7iHiA)
     - [Kneser-Ney Smoothing (8:58)](https://youtu.be/uptdq8Fa-aE)
-- Spelling Correction and the Noisy Channel 46 Minutes and 52 Seconds):
+- Spelling Correction and the Noisy Channel (46 Minutes and 52 Seconds):
     - [The Spelling Correction Task (7:06)](https://youtu.be/_jJ1aCOoGwo)
     - [The Noisy Channel Model of Spelling (23:43)](https://youtu.be/QADhN6RaRwk)
     - [Real-word spelling errors (8:33)](https://youtu.be/uexAaSZZ5Zg)
