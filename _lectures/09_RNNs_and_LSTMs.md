@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 9
-date: 2024-05-06T10:00:00
+date: 2025-05-05T10:00:00
 title: RNNs and LSTMs
 tldr: "RNNs and LSTMs."
 hide_from_announcments: true
