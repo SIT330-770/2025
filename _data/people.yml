@@ -3,10 +3,10 @@ instructors:
     profile_pic: /_images/pp/Reda8.jpg
     webpage: https://rbouadjenek.github.io/
 
-# burwood_campus_coordinator:
-#   - name: Bahadorreza Ofoghi
-#     profile_pic: /_images/pp/bahadorreza.png
-#     webpage: https://experts.deakin.edu.au/43463-Bahadorreza-Ofoghi
+burwood_campus_coordinator:
+  - name: Bahadorreza Ofoghi
+    profile_pic: /_images/pp/bahadorreza.png
+    webpage: https://experts.deakin.edu.au/43463-Bahadorreza-Ofoghi
 
 teaching_assistants:
   - name: Aymen Khouas
@@ -15,5 +15,5 @@ teaching_assistants:
 
 teaching_assistants:
   - name:Sara Mirabi
-    profile_pic: /_images/pp/aymen.jpeg
+    profile_pic: /_images/pp/sara.jpeg
     webpage: https://experts.deakin.edu.au/65017-sara-mirabi
