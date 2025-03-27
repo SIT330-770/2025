@@ -7,9 +7,9 @@ tldr: "Vector Embeddings and Sequence Labeling."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/we.png
 links: 
-    - url: /static_files/presentations/Week_5_-_Vector_Embeddings_ and_Sequence_Labeling.pdf
+    - url: /static_files/presentations/Week_5_-_Vector_Embeddings_and_Sequence_Labeling.pdf
       name: slides
-    - url: /static_files/presentations/Week_5_-_Vector_Embeddings_ and_Sequence_Labeling_6up.pdf
+    - url: /static_files/presentations/Week_5_-_Vector_Embeddings_and_Sequence_Labeling_6up.pdf
       name: slides 6up
 ---
 **Video recordings (2 Hour, 23 Minutes and 58 Seconds):**
