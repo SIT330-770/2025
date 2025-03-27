@@ -1,3 +1,4 @@
+---
 type: lecture
 week: Week 5
 date: 2025-03-31T10:00:00
