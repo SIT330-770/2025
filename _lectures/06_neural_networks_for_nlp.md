@@ -15,7 +15,7 @@ links:
       name: Notes
 ---
 **Video recordings:**
-- [Introduction (1:01)]()
+- [Introduction (1:01)](https://youtu.be/KDsABwIyNKo)
 - **Optional:** Introduction to Neural Nets (1 Hour, 13 Minutes and 06 Seconds):
   - [Neural Networks Overview (4:26)](https://youtu.be/NAZFnD0jfLw)
   - [Neural Network Representation (5:14)](https://youtu.be/bYtACdBD9xo)
@@ -26,7 +26,7 @@ links:
   - [Derivatives of activation functions (7:57)](https://youtu.be/Ah7NChvn8rg)
   - [Gradient descent for Neural Networks (9:57)](https://youtu.be/cTBTdyZl2tk)
   - [Random Initialization (7:57)](https://youtu.be/DMM9wBm-mLk)
-  - [Applying feedforward networks to NLP tasks (15:32)](https://youtu.be/GlnLFI4zoeU)
+  - [Applying feedforward networks to NLP tasks (15:32)](https://youtu.be/cU7BE_YRCOY)
   
 - Recurrent Neural Networks  (2 Hours, 34 Minutes and 11 Seconds):
   - [Why sequence models? (3:00)](https://youtu.be/y-O_T1Hs_kY)
