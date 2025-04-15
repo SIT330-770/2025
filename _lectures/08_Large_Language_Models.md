@@ -5,7 +5,7 @@ date: 2025-04-28T10:00:00
 title: Large Language Models
 tldr: "Large Language Models."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/transformers.jpg
+thumbnail: /static_files/presentations/llms.jpeg
 links: 
     - url: /static_files/presentations/Week_8_-_Large_Language_Models.pdf
       name: slides
