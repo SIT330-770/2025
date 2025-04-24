@@ -1,6 +1,6 @@
 ---
 type: lecture
-week: Week 7
+week: Week 8
 date: 2025-04-28T10:00:00
 title: Large Language Models
 tldr: "Large Language Models."
@@ -12,12 +12,13 @@ links:
     - url: /static_files/presentations/Week_8_-_Large_Language_Models_6up.pdf
       name: slides 6up
 ---
-**Video recordings (x Hours, xx Minutes and xx Seconds):**
-- [Introduction to Large Language Models (xx:xx)]()
-- [Large Language Models What tasks can they do? (xx:xx)]()
-- [Pretraining Large Language Models: Algorithm (xx:xx)]()
-- [Pretraining data for LLMs (xx:x)]()
-- [Finetuning (xx:xx)]()
-- [Evaluating Large Language Models (xx:xx)]()
-- [Dealing with Scale (xx:xx)]()
-- [Harms of Large Language Models (xx:xx)]()
+**Video recordings (1 Hours, 08 Minutes and 32 Seconds):**
+- [Introduction to Large Language Models (6:14)](https://youtu.be/nopDUh83HNI)
+- [Large Language Models: What tasks can they do? (7:46)](https://youtu.be/P1oYOHE26uc)
+- [Sampling for LLM Generation (9:32)](https://youtu.be/k8bmbuYpkrc)
+- [Pretraining Large Language Models: Algorithm (5:43)](https://youtu.be/UfrHrDxElSE)
+- [Pretraining data for LLMs (6:35)](https://youtu.be/V1c7J6kmEwg)
+- [Finetuning (2:46)](https://youtu.be/K63gsUrgB6Y)
+- [Evaluating Large Language Models (3:56)](https://youtu.be/eRPhHpUHhT4)
+- [Dealing with Scale (16:03)](https://youtu.be/57IZ5zdDn-s)
+- [Harms of Large Language Models (9:57)](https://youtu.be/iBhCux8iEJs)
