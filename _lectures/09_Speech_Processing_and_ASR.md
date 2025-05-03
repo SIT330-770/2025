@@ -5,7 +5,7 @@ date: 2025-05-05T10:00:00
 title: Speech Processing & ASR
 tldr: "Speech Processing & ASR."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/asr.jpeg
+thumbnail: /static_files/presentations/asr.jpg
 links: 
     - url: /static_files/presentations/Week_9_-_Speech_Processing_and_ASR.pdf
       name: slides
