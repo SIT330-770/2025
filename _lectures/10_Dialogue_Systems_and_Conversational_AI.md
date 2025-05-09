@@ -16,7 +16,7 @@ links:
 - [Introduction to Chatbots and Dialogue Systems (5:40)](https://youtu.be/_oGSdNmgG-w)
 - [Properties of Human Conversation (17:07)](https://youtu.be/60bplNwZGk0)
 - [Rule-based Chatbots - ELIZA and PARRY (12:58)](https://youtu.be/BSmRHH6tfwc)
-- [Corpus-based Chatbots (x:xx)]()
+- [Corpus-based Chatbots (14:51)](https://youtu.be/-rzmcCaaBjs)
 - [The Frame-based ("GUS") Dialogue Architecture (x:xx)]()
 - [The Dialogue-State Architecture (x:xx)]()
 - [The Dialogue-State Architecture Continued - Policy and Generation (x:xx)]()
