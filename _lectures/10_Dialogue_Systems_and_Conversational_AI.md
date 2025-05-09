@@ -19,6 +19,6 @@ links:
 - [Corpus-based Chatbots (14:51)](https://youtu.be/-rzmcCaaBjs)
 - [The Frame-based ("GUS") Dialogue Architecture (10:45)](https://youtu.be/YfTRPdpvc3I)
 - [The Dialogue-State Architecture (11:13)](https://youtu.be/fFUUR0l1VaI)
-- [The Dialogue-State Architecture Continued - Policy and Generation (x:xx)]()
+- [The Dialogue-State Architecture Continued - Policy and Generation (13:21)](https://youtu.be/S7EQwULS2Yw)
 - [Evaluating Dialogue Systems (x:xx)]()
 - [Design and Ethical Issues (x:xx)]()
