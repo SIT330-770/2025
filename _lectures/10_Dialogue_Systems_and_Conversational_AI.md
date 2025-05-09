@@ -13,9 +13,9 @@ links:
       name: slides 6up
 ---
 **Video recordings (xx hours, xx Minutes and xx Seconds):**
-- [Introduction to Chatbots and Dialogue Systems (x:xx)]()
-- [Properties of Human Conversation (x:xx)]()
-- [Rule-based Chatbots - ELIZA and PARRY (x:xx)]()
+- [Introduction to Chatbots and Dialogue Systems (5:40)](https://youtu.be/_oGSdNmgG-w)
+- [Properties of Human Conversation (17:07)](https://youtu.be/60bplNwZGk0)
+- [Rule-based Chatbots - ELIZA and PARRY (12:58)](https://youtu.be/BSmRHH6tfwc)
 - [Corpus-based Chatbots (x:xx)]()
 - [The Frame-based ("GUS") Dialogue Architecture (x:xx)]()
 - [The Dialogue-State Architecture (x:xx)]()
