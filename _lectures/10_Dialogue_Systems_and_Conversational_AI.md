@@ -5,7 +5,7 @@ date: 2025-05-12T10:00:00
 title: Dialogue Systems & Conversational AI
 tldr: "Dialogue Systems & Conversational AI."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/asr.jpg
+thumbnail: /static_files/presentations/AI.jpg
 links: 
     - url: /static_files/presentations/Week_10_-_Dialogue_Systems_and_Conversational_AI.pdf
       name: slides
